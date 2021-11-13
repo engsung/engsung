@@ -10,7 +10,7 @@ class Programmer:
                 ]
 
     def get2022Goals(self):
-        BuildARobotToFollowKikiAround()
+        BuildARobotToFollowLuckyAround()
         LearnCalligraphy()
         WriteABlog()
 ```
