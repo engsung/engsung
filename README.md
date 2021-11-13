@@ -9,7 +9,7 @@ class Programmer:
                     'Binging kdramas'
                 ]
 
-    def get2022Goals(self):
+    def goalsFor2020(self):
         BuildARobotToFollowLuckyAround()
         LearnCalligraphy()
         WriteABlog()
