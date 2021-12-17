@@ -5,8 +5,7 @@ class Programmer:
     interests = [
                     'Full stack development',
                     'Hiking',
-                    'Recipe creating',
-                    'Binging kdramas'
+                    'Recipe creating'
                 ]
 
     def goalsFor2022(self):
