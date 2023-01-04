@@ -8,7 +8,7 @@ class Programmer:
                     'Recipe creating'
                 ]
 
-    def goalsFor2022(self):
+    def goalsFor2023(self):
         BuildARobotToFollowLuckyAround()
         LearnCalligraphy()
         WriteABlog()
